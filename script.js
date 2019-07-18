@@ -11,7 +11,8 @@ var shoutouts = [
   "Your witty sense of humor and intelligence.",
   "Your personality and the great convos you start!",
   "how open you are to helping everybody and being so nice and funny you are. You made me so happy and comftorable",
-  "Your enthusiasm! You are just so full of energy and positivity, it is truly inspiring and contagious."
+  "Your enthusiasm! You are just so full of energy and positivity, it is truly inspiring and contagious.",
+  "your shrek's obsession, and that you're always active and having a lot of great  ideas in mind"
 ]
 
 for (x of shoutouts) {
